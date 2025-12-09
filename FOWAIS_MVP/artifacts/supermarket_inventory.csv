@@ -1,8 +1,0 @@
-id,product_name,stock_current,expiry_date,sales_w1,sales_w2,sales_w3,is_holiday_next_week
-1,Roti Tawar,55,2025-12-08,30,46,50,1
-2,Susu UHT,53,2025-12-09,31,42,39,0
-3,Sayur Bayam,69,2025-12-16,31,21,48,1
-4,Daging Ayam,65,2025-12-14,50,35,36,1
-5,Pisang,53,2025-12-15,45,39,22,0
-6,Yoghurt,74,2025-12-09,46,47,37,1
-7,Ikan Salmon,13,2025-12-10,52,30,39,0
