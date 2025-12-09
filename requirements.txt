@@ -1,14 +1,15 @@
-FOWAIS Project Python Requirements
+# FOWAIS Project Python Requirements
+#
+# Libraries needed for data processing, AI model, and GUI.
+# Note: This is based on the Scikit-Learn version of the code.
 
-Libraries needed for data processing, AI model, and GUI.
-
-Data Handling:
+# Data Handling
 pandas
 numpy
 
-Machine Learning (Core AI):
+# Machine Learning (Core AI)
 scikit-learn
 joblib
 
-GUI Framework:
+# GUI Framework
 customtkinter
